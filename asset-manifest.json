@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coinmoon/static/css/main.8e55d3d4.chunk.css",
+    "main.js": "/coinmoon/static/js/main.79e60bab.chunk.js",
+    "main.js.map": "/coinmoon/static/js/main.79e60bab.chunk.js.map",
+    "runtime-main.js": "/coinmoon/static/js/runtime-main.f9e681e7.js",
+    "runtime-main.js.map": "/coinmoon/static/js/runtime-main.f9e681e7.js.map",
+    "static/js/2.0837fa21.chunk.js": "/coinmoon/static/js/2.0837fa21.chunk.js",
+    "static/js/2.0837fa21.chunk.js.map": "/coinmoon/static/js/2.0837fa21.chunk.js.map",
+    "index.html": "/coinmoon/index.html",
+    "static/css/main.8e55d3d4.chunk.css.map": "/coinmoon/static/css/main.8e55d3d4.chunk.css.map",
+    "static/js/2.0837fa21.chunk.js.LICENSE.txt": "/coinmoon/static/js/2.0837fa21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e681e7.js",
+    "static/js/2.0837fa21.chunk.js",
+    "static/css/main.8e55d3d4.chunk.css",
+    "static/js/main.79e60bab.chunk.js"
+  ]
+}
